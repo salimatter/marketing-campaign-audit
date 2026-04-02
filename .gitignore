@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files — not pushed to GitHub
+data/
+
+# Power BI files (large binary files)
+*.pbix
